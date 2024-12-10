@@ -48,8 +48,12 @@ computer science</li>
 <li>Email ID</li><p>subasrisiriniwasan8@gmail.com</p>
 </ul>
 </div>
-</section>
-
+</section><style> 
+header
+{
+font size:12px;
+colour:red;
+}<\style>
 </main>
 </body>
 </html>
