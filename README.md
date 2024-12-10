@@ -28,7 +28,7 @@
 <div class="container">
 <h1>About Me</h1>
 <ul>
-<li>English TypewritingQualified</li>
+<li>English Typewriting Qualified</li>
 <li>IIIrd year B.Sc
 computer science</li>
 </ul>
@@ -37,16 +37,13 @@ computer science</li>
 
 <section id="contact">
 <div class="container">
-<h1>Contact me</h1>
+<h1>Contact me</h1><p>9025996748</p>
 <ul>
-<li>Email ID</li>
+<li>Email ID</li><p>subasrisiriniwasan8@gmail.com</p>
 </ul>
 </div>
 </section>
 
 </main>
-<footer>
-<p>© Copyright 2025 hema Co LTd.</p>
-</footer>
 </body>
 </html>
