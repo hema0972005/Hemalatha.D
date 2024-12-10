@@ -19,7 +19,7 @@
 <main>
 <section id="intro">
 <div class="Container">
-<img src="Images/hema.jpg" alt="display picture of hema">
+<img src="image.jpg" alt="National flag in India">
 <h2>My name is hemalatha</h2>
 </div> 
 </section>
@@ -27,7 +27,7 @@
 <section id="about">
 <div class="container">
 <h1>About Me</h1>
-<ul>
+<ul><li>I am coming from Serugudi</li>
 <li>English Typewriting Qualified</li>
 <li>IIIrd year B.Sc
 computer science</li>
