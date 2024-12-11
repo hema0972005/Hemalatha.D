@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>
+profile
+<\title>
+<table>
+<tr>
+<th>Name</th>
+<th>course<\th>
+<th>Native</th>
+<th>technical qualification<\th>
+<\tr>
+<tr>
+<td>D.Hemalatha<\td>
+<td>B.Sc., Computer Science<\td>
+<td>Serugudi<\td>
+<td>T/W English<\td>
+<\tr>
+<\table>
